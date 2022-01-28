@@ -1,0 +1,11 @@
+On MacOS, some precautions have to be taken:
+
+- go to system preferences
+- go to Keyboard
+- go to input sources
+- check that ABC is in the list
+
+- go to system preferences
+- go to Keyboard
+- go to Modify type of keyboard
+- check that the American ISO is marked
